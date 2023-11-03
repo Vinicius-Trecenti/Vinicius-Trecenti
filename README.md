@@ -27,10 +27,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Trecenti&show_icons=true" />
   </picture>
 
-  <picture>
+  <picture align="center">
      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Trecenti&layout=compact&theme=dark"
   </picture>
 </div>
+
+ 
 
  ## Entre em contato 👾
 <div> 
