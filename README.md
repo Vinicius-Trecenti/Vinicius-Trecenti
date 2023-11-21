@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento pelo Instituto Federal de educação ciência e tecnologia de São Paulo - campus Caraguatatuba
 - 🌱 Estou aprendendo Java, JavaScript, React, HTML, CSS...
-- 🤖 Estou procurando um emprego na área de programação
+- 🤖 Estou procurando uma oportunidade na área de programação
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
