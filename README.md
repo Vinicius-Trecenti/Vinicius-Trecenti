@@ -1,7 +1,7 @@
 ## Heey! Eu sou o Vinicius Trecenti 
 
-- 🔭 Atualmente estou cursando Analise e Desenvolvimento pelo Instituto Federal de educação ciência e tecnologia de São Paulo - campus Caraguatatuba
-- 🌱 Estou aprendendo Java, JavaScript, React, HTML, CSS...
+- 🔭 Graduado em Analise e Desenvolvimento pelo Instituto Federal de educação ciência e tecnologia de São Paulo - campus Caraguatatuba
+- 🌱 Estou aprendendo cada vez mais sobre o desenvolvimento de soluções e sistemas
 - 🤖 Estou procurando uma oportunidade na área de programação
   
 <div style="display: inline_block"><br>
